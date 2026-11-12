@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/handle-Jrosecurity-00ff00?style=flat-square&logo=github&logoColor=black&labelColor=0d1117" alt="handle"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Jrosecurity&style=flat-square&color=00ff00&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Jrosecurity?style=flat-square&logo=github&label=FOLLOWERS&labelColor=0d1117&color=00ff00&logoColor=00ff00" alt="followers"/>
   <img src="https://img.shields.io/badge/focus-0--day%20research-00ff00?style=flat-square&labelColor=0d1117" alt="focus"/>
 </p>
 
@@ -80,20 +81,7 @@
 ## `./stats --verbose`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jrosecurity&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jrosecurity&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrosecurity&layout=compact&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="top langs"/>
-</p>
-
----
-
-## `git log --graph --oneline`
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jrosecurity&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jrosecurity&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 </p>
 
 ---
