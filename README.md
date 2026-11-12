@@ -1,5 +1,10 @@
-<h1 align="center">Cavid Gulaliyev</h1>
-<h3 align="center">Security Researcher · Bug Bounty Hunter · Pentester</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:006400,100:00ff00&height=200&section=header&text=Cavid%20Gulaliyev&fontColor=00ff00&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20%7C%200-day%20Research&descAlignY=60&descSize=18" alt="header"/>
+
+<p align="center">
+  <a href="https://github.com/Jrosecurity">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=650&lines=Security+Researcher+%7C+Pentester;Bug+Bounty+Hunter;0-day+%26+CVE+Research;Source+Code+Auditor" alt="typing"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Jrosecurity">
@@ -75,12 +80,12 @@
 ## `./stats --verbose`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jrosecurity&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jrosecurity&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00" alt="stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jrosecurity&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrosecurity&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrosecurity&layout=compact&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="top langs"/>
 </p>
 
 ---
@@ -88,7 +93,7 @@
 ## `git log --graph --oneline`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jrosecurity&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jrosecurity&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
@@ -101,11 +106,4 @@
   </a>
 </p>
 
----
-
-```
-╔══════════════════════════════════════════════════════════════╗
-   "The quieter you become, the more you are able to hear."
-                                              — Kali Linux
-╚══════════════════════════════════════════════════════════════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:006400,100:0d1117&height=120&section=footer&text=The%20quieter%20you%20become...&fontColor=0d1117&fontSize=20&fontAlignY=70" alt="footer"/>
