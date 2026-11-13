@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/Jrosecurity">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jrosecurity&bg_color=0d1117&color=00ff00&line=006400&point=00ff00&area=true&area_color=006400&hide_border=true" width="100%" alt="activity"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Jrosecurity&theme=matrix&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophies"/>
   </a>
 </p>
 
