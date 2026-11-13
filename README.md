@@ -8,32 +8,28 @@
 
 <p align="center">
   <a href="https://github.com/Jrosecurity">
-    <img src="https://img.shields.io/badge/handle-Jrosecurity-00ff00?style=flat-square&logo=github&logoColor=black&labelColor=0d1117" alt="handle"/>
+    <img src="https://img.shields.io/badge/Jrosecurity-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="handle"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Jrosecurity&style=flat-square&color=00ff00&label=PROFILE+VIEWS" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Jrosecurity?style=flat-square&logo=github&label=FOLLOWERS&labelColor=0d1117&color=00ff00&logoColor=00ff00" alt="followers"/>
-  <img src="https://img.shields.io/badge/focus-0--day%20research-00ff00?style=flat-square&labelColor=0d1117" alt="focus"/>
-  <img src="https://img.shields.io/badge/CVEs-2_pending-00ff00?style=flat-square&labelColor=0d1117" alt="CVEs"/>
+  <img src="https://komarev.com/ghpvc/?username=Jrosecurity&style=for-the-badge&color=1a1a2e&label=VIEWS&labelColor=0d1117" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Jrosecurity?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0d1117&color=1a1a2e&logoColor=c9d1d9" alt="followers"/>
+  <img src="https://img.shields.io/badge/focus-0--day%20research-1a1a2e?style=for-the-badge&labelColor=0d1117" alt="focus"/>
+  <img src="https://img.shields.io/badge/CVEs-2%20pending-006400?style=for-the-badge&labelColor=0d1117" alt="CVEs"/>
 </p>
 
+<div align="center">
+
+```js
+const jrose = {
+    name     : "Cavid Gulaliyev",
+    handle   : "Jrosecurity",
+    role     : ["Security Researcher", "Pentester", "Bug Bounty Hunter"],
+    focus    : "0-day & CVE Research",
+    motto    : "The quieter you become, the more you are able to hear.",
+    status   : { system: "ONLINE", mode: "HUNTING", targets: "OPEN" }
+};
 ```
-╔══════════════════════════════════════════════════════════════╗
 
-   $ whoami
-   → Cavid Gulaliyev   //   Jrosecurity
-
-   $ cat /etc/motd
-   → "The quieter you become, the more you are able to hear."
-
-   $ ./hunt --targets --open
-   → scanning ............................... [████████████] 100%
-   → host is up · analyzing source · trust boundaries mapped
-   → status: vulnerabilities found ✓
-
-   [ SYSTEM: ONLINE ]   [ STATUS: HUNTING ]   [ MODE: 0-DAY ]
-
-╚══════════════════════════════════════════════════════════════╝
-```
+</div>
 
 ---
 
