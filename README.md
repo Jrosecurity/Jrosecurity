@@ -13,6 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Jrosecurity&style=flat-square&color=00ff00&label=PROFILE+VIEWS" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/Jrosecurity?style=flat-square&logo=github&label=FOLLOWERS&labelColor=0d1117&color=00ff00&logoColor=00ff00" alt="followers"/>
   <img src="https://img.shields.io/badge/focus-0--day%20research-00ff00?style=flat-square&labelColor=0d1117" alt="focus"/>
+  <img src="https://img.shields.io/badge/CVEs-2_pending-00ff00?style=flat-square&labelColor=0d1117" alt="CVEs"/>
 </p>
 
 ```
@@ -61,8 +62,8 @@
 
 | Date | Target | Impact | Status |
 |:----:|--------|--------|--------|
-| 2026-11 | **WebToffee — Order Export & Order Import for WooCommerce** · `50,000+` installs | CSV / formula injection hardening on order re-import (crafted order data) | ✅ Fixed in **v2.8.1** — credited *"J Rose"* |
-| 2026-11 | **WebToffee — Product Import Export for WooCommerce** · `80,000+` installs | CSV / formula injection hardening on product re-import (crafted review data) | ✅ Fixed in **v2.6.9** — credited *"J Rose (Cavid Gulaliyev)"* |
+| 2026-11 | **WebToffee — Order Export & Order Import for WooCommerce** · `50,000+` installs | CSV / formula injection hardening on order re-import (crafted order data) | ✅ Fixed in **v2.8.1** — credited *"J Rose"* · CVE pending |
+| 2026-11 | **WebToffee — Product Import Export for WooCommerce** · `80,000+` installs | CSV / formula injection hardening on product re-import (crafted review data) | ✅ Fixed in **v2.6.9** — credited *"J Rose (Cavid Gulaliyev)"* · CVE pending |
 
 <sub>🔗 WebToffee changelogs: [Order plugin](https://wordpress.org/plugins/order-import-export-for-woocommerce/#developers) · [Product plugin](https://wordpress.org/plugins/product-import-export-for-woo/#developers)</sub>
 
@@ -82,7 +83,7 @@
 ## `./stats --verbose`
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jrosecurity&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jrosecurity&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" alt="stats"/>
 </p>
 
 ---
