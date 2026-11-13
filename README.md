@@ -62,8 +62,9 @@
 | Date | Target | Impact | Status |
 |:----:|--------|--------|--------|
 | 2026-11 | **WebToffee — Order Export & Order Import for WooCommerce** · `50,000+` installs | CSV / formula injection hardening on order re-import (crafted order data) | ✅ Fixed in **v2.8.1** — credited *"J Rose"* |
+| 2026-11 | **WebToffee — Product Import Export for WooCommerce** · `80,000+` installs | CSV / formula injection hardening on product re-import (crafted review data) | ✅ Fixed in **v2.6.9** — credited *"J Rose (Cavid Gulaliyev)"* |
 
-<sub>🔗 WebToffee changelog: https://wordpress.org/plugins/order-import-export-for-woocommerce/#developers</sub>
+<sub>🔗 WebToffee changelogs: [Order plugin](https://wordpress.org/plugins/order-import-export-for-woocommerce/#developers) · [Product plugin](https://wordpress.org/plugins/product-import-export-for-woo/#developers)</sub>
 
 ---
 
