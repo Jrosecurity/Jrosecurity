@@ -9,10 +9,10 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>🔒 Handle</b><br/><code>Jrosecurity</code></td>
-      <td align="center"><b>🎯 Focus</b><br/><code>0-day Research</code></td>
-      <td align="center"><b>🟢 Status</b><br/><code>Hunting</code></td>
-      <td align="center"><b>🛡️ CVEs</b><br/><code>2 pending</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/HANDLE-0d1117?style=flat-square" alt=""/><br/><b>Jrosecurity</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/FOCUS-0d1117?style=flat-square" alt=""/><br/><b>0-day Research</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/STATUS-0d1117?style=flat-square" alt=""/><br/><b>● Hunting</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/CVEs-0d1117?style=flat-square" alt=""/><br/><b>2 pending</b></td>
     </tr>
   </table>
 </div>
