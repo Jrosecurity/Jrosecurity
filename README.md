@@ -43,16 +43,14 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
-![Recon](https://img.shields.io/badge/Recon-0d1117?style=for-the-badge)
-![Source Code Review](https://img.shields.io/badge/Source_Code_Review-0d1117?style=for-the-badge)
-![Custom Scripts](https://img.shields.io/badge/Custom_Scripts-0d1117?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon-1a1a2e?style=for-the-badge&logoColor=white)
+![Source Code Review](https://img.shields.io/badge/Source_Code_Review-1a1a2e?style=for-the-badge&logoColor=white)
+![Custom Scripts](https://img.shields.io/badge/Custom_Scripts-1a1a2e?style=for-the-badge&logoColor=white)
 
 #### 🟢 Development & Analysis
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -62,8 +60,10 @@
 
 | Date | Target | Impact | Status |
 |:----:|--------|--------|--------|
-| 2026-11 | **WebToffee — Order Export & Order Import for WooCommerce** · `50,000+` installs | CSV / formula injection hardening on order re-import (crafted order data) | ✅ Fixed in **v2.8.1** — credited *"J Rose"* · CVE pending |
-| 2026-11 | **WebToffee — Product Import Export for WooCommerce** · `80,000+` installs | CSV / formula injection hardening on product re-import (crafted review data) | ✅ Fixed in **v2.6.9** — credited *"J Rose (Cavid Gulaliyev)"* · CVE pending |
+| 2026-11 | **WebToffee — Order Export & Order Import for WooCommerce** · `50,000+` installs | CSV / formula injection hardening on order re-import (crafted order data) | ✅ Fixed in **v2.8.1** — credited *"J Rose (Cavid Gulaliyev)"* |
+| | | | ![CVE](https://img.shields.io/badge/CVE-pending-yellow?style=flat-square&labelColor=0d1117) |
+| 2026-11 | **WebToffee — Product Import Export for WooCommerce** · `80,000+` installs | CSV / formula injection hardening on product re-import (crafted review data) | ✅ Fixed in **v2.6.9** — credited *"J Rose (Cavid Gulaliyev)"* |
+| | | | ![CVE](https://img.shields.io/badge/CVE-pending-yellow?style=flat-square&labelColor=0d1117) |
 
 <sub>🔗 WebToffee changelogs: [Order plugin](https://wordpress.org/plugins/order-import-export-for-woocommerce/#developers) · [Product plugin](https://wordpress.org/plugins/product-import-export-for-woo/#developers)</sub>
 
@@ -83,7 +83,9 @@
 ## `./stats --verbose`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jrosecurity&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" alt="stats"/>
+  <a href="https://github.com/Jrosecurity">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jrosecurity&theme=github_dark" alt="stats"/>
+  </a>
 </p>
 
 ---
