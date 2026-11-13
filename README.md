@@ -62,8 +62,8 @@
       <td><b>WebToffee &mdash; Order Import Export</b><br/><sub>50,000+ installs</sub></td>
       <td>CSV row injection on order re-import via crafted order data</td>
       <td>
-        <img src="https://img.shields.io/badge/FIXED-v2.8.1-00ff00?style=flat-square&labelColor=0d1117"/><br/>
-        <img src="https://img.shields.io/badge/CVE-pending-yellow?style=flat-square&labelColor=0d1117"/><br/>
+        <img src="https://img.shields.io/badge/FIXED-v2.8.1-0d1117?style=flat-square&labelColor=006400"/><br/>
+        <img src="https://img.shields.io/badge/CVE-pending-0d1117?style=flat-square&labelColor=b8860b"/><br/>
         <sub>credited <i>"J Rose (Cavid Gulaliyev)"</i></sub>
       </td>
     </tr>
@@ -72,8 +72,8 @@
       <td><b>WebToffee &mdash; Product Import Export</b><br/><sub>80,000+ installs</sub></td>
       <td>CSV row injection on product re-import via crafted review data</td>
       <td>
-        <img src="https://img.shields.io/badge/FIXED-v2.6.9-00ff00?style=flat-square&labelColor=0d1117"/><br/>
-        <img src="https://img.shields.io/badge/CVE-pending-yellow?style=flat-square&labelColor=0d1117"/><br/>
+        <img src="https://img.shields.io/badge/FIXED-v2.6.9-0d1117?style=flat-square&labelColor=006400"/><br/>
+        <img src="https://img.shields.io/badge/CVE-pending-0d1117?style=flat-square&labelColor=b8860b"/><br/>
         <sub>credited <i>"J Rose (Cavid Gulaliyev)"</i></sub>
       </td>
     </tr>
@@ -99,7 +99,13 @@
 
 <p align="center">
   <a href="https://github.com/Jrosecurity">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jrosecurity&theme=matrix&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophies"/>
+    <img src="https://streak-stats.demolab.com/?user=Jrosecurity&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&dates=555555" alt="streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jrosecurity">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jrosecurity&theme=github_dark" width="100%" alt="activity"/>
   </a>
 </p>
 
