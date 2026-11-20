@@ -12,7 +12,7 @@
       <td align="center"><img src="https://img.shields.io/badge/HANDLE-0d1117?style=flat-square" alt=""/><br/><b>Jrosecurity</b></td>
       <td align="center"><img src="https://img.shields.io/badge/FOCUS-0d1117?style=flat-square" alt=""/><br/><b>0-day Research</b></td>
       <td align="center"><img src="https://img.shields.io/badge/STATUS-0d1117?style=flat-square" alt=""/><br/><b>● Hunting</b></td>
-      <td align="center"><img src="https://img.shields.io/badge/CVEs-0d1117?style=flat-square" alt=""/><br/><b>2 pending</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/CVEs-0d1117?style=flat-square" alt=""/><br/><b>3 pending</b></td>
     </tr>
   </table>
 </div>
@@ -59,6 +59,16 @@
   <tbody>
     <tr>
       <td><code>2026-11</code></td>
+      <td><b>The Events Calendar</b><br/><sub>600,000+ installs</sub></td>
+      <td>Broken access control &mdash; Author overwrites admin-owned Venue/Organizer/Event meta via CSV importer missing ownership check</td>
+      <td>
+        <img src="https://img.shields.io/badge/FIXED-v6.18.4.1-0d1117?style=flat-square&labelColor=006400"/><br/>
+        <img src="https://img.shields.io/badge/CVE-pending-0d1117?style=flat-square&labelColor=b8860b"/><br/>
+        <sub>credited <i>"Cavid Gulaliyev"</i></sub>
+      </td>
+    </tr>
+    <tr>
+      <td><code>2026-11</code></td>
       <td><b>WebToffee &mdash; Order Import Export</b><br/><sub>50,000+ installs</sub></td>
       <td>CSV row injection on order re-import via crafted order data</td>
       <td>
@@ -80,7 +90,7 @@
   </tbody>
 </table>
 
-<sub>🔗 Changelogs: <a href="https://wordpress.org/plugins/order-import-export-for-woocommerce/#developers">Order plugin</a> · <a href="https://wordpress.org/plugins/product-import-export-for-woo/#developers">Product plugin</a></sub>
+<sub>🔗 Changelogs: <a href="https://wordpress.org/plugins/the-events-calendar/#developers">The Events Calendar</a> · <a href="https://wordpress.org/plugins/order-import-export-for-woocommerce/#developers">Order plugin</a> · <a href="https://wordpress.org/plugins/product-import-export-for-woo/#developers">Product plugin</a></sub>
 
 ---
 
